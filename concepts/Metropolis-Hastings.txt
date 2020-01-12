@@ -1,0 +1,5 @@
+Summary:
+MH algorithm is the cornerstone of every MCMC algorithm. Given a distribution it finds a Markov chain whose invariant distribution matches it.
+
+References:
+T1
